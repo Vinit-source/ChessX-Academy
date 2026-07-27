@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Socratic Chess Tutor",
+  "description": "A fully functional chess game with an integrated AI tutor powered by Gemini to help you learn and improve your game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
